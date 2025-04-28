@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @kiranpandey-9411
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-kiranpandey-9411/kiranpandey-9411 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+public class Addition {
+    public static void main(String[] args) {
+         int num1 = 10;
+         int num2 = 20;
+         int num3 = 40;
+         int sum = num1 + num2 + num3;
+         System.out.println(sum);
+    }
+}
